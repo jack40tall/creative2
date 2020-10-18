@@ -182,7 +182,13 @@ footer a {
         padding: 0;
         width: 100vw;
         height: 1000px;
+        justify-content: start;
         padding-bottom: 200px;
+    
+    }
+
+    .main-page .left-side {
+        height: 830px;
     }
 
     #eyes {
@@ -196,7 +202,7 @@ footer a {
         padding-top: 20px;
         width: 310px;
         height: 350px;
-        margin: 220px 0 40px 0;
+        margin: 110px 0 90px 0;
         border-radius: 12px;
         /* flex-direction: row; */
     }
