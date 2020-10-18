@@ -88,6 +88,7 @@ body {
     cursor: pointer;
     border-radius: 5px;
     box-shadow: 0 0 20px 10px #97ce4c;
+    -webkit-appearance: none;
     /* background: #e89ac7; */
 
     /* border: 2px solid blue; */
